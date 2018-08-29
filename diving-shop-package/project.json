@@ -1,0 +1,24 @@
+{
+    "guid": "diving-shop-package",
+    "repository": {
+        "type": "git",
+        "branch": "master",
+        "url": "https://github.com/promart-io/applications-diving-shop-package.git"
+    },
+    "dependencies": [{
+        "guid": "sample-v3-diving-shop",
+        "url": "https://github.com/dirigiblelabs/sample-v3-diving-shop.git",
+        "type": "git",
+        "branch": "master"
+    }, {
+        "guid": "sample-v3-diving-shop-courses",
+        "url": "https://github.com/dirigiblelabs/sample-v3-diving-shop-courses.git",
+        "type": "git",
+        "branch": "master"
+    }, {
+        "guid": "sample-v3-diving-shop-data",
+        "url": "https://github.com/dirigiblelabs/sample-v3-diving-shop-data.git",
+        "type": "git",
+        "branch": "master"
+    }]
+}
